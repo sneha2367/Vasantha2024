@@ -2,3 +2,5 @@ Devops is a demanding career
 devops is a tuff subject
 undo examples
 docker works well
+kubbernetts is a tool
+Ansible is better than other
